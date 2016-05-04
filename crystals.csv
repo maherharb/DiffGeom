@@ -1,0 +1,4 @@
+name,type,param.a,param.b,param.c,param.alpha,param.beta,param.gamma
+(custom),cubic,0,0,0,0,0,0
+graphite,hexagonal,2.456,0,6.696,0,0,0
+silicon,cubic,5.431,0,0,0,0,0
